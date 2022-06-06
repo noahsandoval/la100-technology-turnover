@@ -1,0 +1,14 @@
+,options,original percent,goal percent,new percent
+0,"Gas, 80% Usage",0.1742,0.0972,0.0974
+1,"Gas, 100% Usage",0.3484,0.1944,0.1946
+2,"Gas, 120% Usage",0.1738,0.0972,0.0974
+3,"Propane, 80% Usage",0.0012,0.0002,0.0004
+4,"Propane, 100% Usage",0.002,0.0005,0.0006
+5,"Propane, 120% Usage",0.0008,0.0002,0.0004
+6,"Electric, 80% Usage",0.0712,0.1365,0.1412
+7,"Electric, 100% Usage",0.1426,0.273,0.2826
+8,"Electric, 120% Usage",0.072,0.1365,0.1412
+9,"Induction, 80% Usage",0.0,0.01,0.0076
+10,"Induction, 100% Usage",0.0,0.02,0.0152
+11,"Induction, 120% Usage",0.0,0.01,0.0076
+12,None,0.0138,0.0244,0.0138
