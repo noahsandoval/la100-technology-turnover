@@ -1,0 +1,44 @@
+{
+	"tsv": 
+		[
+			{"technology":"Cooking Range"}
+		],
+	"option": 
+		[
+			{"option":"Gas, 80% Usage", "goal percent":0.0972},
+			{"option":"Gas, 100% Usage", "goal percent":0.1944}, 
+			{"option":"Gas, 120% Usage", "goal percent":0.0972},
+			{"option":"Propane, 80% Usage", "goal percent":0.0002},
+			{"option":"Propane, 100% Usage", "goal percent":0.0005},
+			{"option":"Propane, 120% Usage", "goal percent":0.0002},
+			{"option":"Electric, 80% Usage", "goal percent":0.1365},
+			{"option":"Electric, 100% Usage", "goal percent":0.2730},
+			{"option":"Electric, 120% Usage", "goal percent":0.1365},
+			{"option":"Induction, 80% Usage", "goal percent":0.0100},
+			{"option":"Induction, 100% Usage", "goal percent":0.0200},
+			{"option":"Induction, 120% Usage", "goal percent":0.0100},
+			{"option":"None", "goal percent":0.0244}
+		], 
+	"replacement":
+		[
+			{"replacement":"Gas, 80% Usage", "Gas, 80% Usage":0, "Gas, 100% Usage":0, "Gas, 120% Usage":0, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0}, 
+			{"replacement":"Gas, 100% Usage", "Gas, 80% Usage":0, "Gas, 100% Usage":0, "Gas, 120% Usage":0, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0},
+			{"replacement":"Gas, 120% Usage", "Gas, 80% Usage":0, "Gas, 100% Usage":0, "Gas, 120% Usage":0, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0},
+			{"replacement":"Propane, 80% Usage", "Gas, 80% Usage":0, "Gas, 100% Usage":0, "Gas, 120% Usage":0, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0},
+			{"replacement":"Propane, 100% Usage", "Gas, 80% Usage":0, "Gas, 100% Usage":0, "Gas, 120% Usage":0, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0},
+			{"replacement":"Propane, 120% Usage", "Gas, 80% Usage":0, "Gas, 100% Usage":0, "Gas, 120% Usage":0, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0},
+			{"replacement":"Electric, 80% Usage", "Gas, 80% Usage":0.9, "Gas, 100% Usage":0, "Gas, 120% Usage":0, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0.9},
+			{"replacement":"Electric, 100% Usage", "Gas, 80% Usage":0, "Gas, 100% Usage":0.9, "Gas, 120% Usage":0, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0},
+			{"replacement":"Electric, 120% Usage", "Gas, 80% Usage":0, "Gas, 100% Usage":0, "Gas, 120% Usage":0.9, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0},
+			{"replacement":"Induction, 80% Usage", "Gas, 80% Usage":0.1, "Gas, 100% Usage":0, "Gas, 120% Usage":0, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0.1},
+			{"replacement":"Induction, 100% Usage", "Gas, 80% Usage":0, "Gas, 100% Usage":0.1, "Gas, 120% Usage":0, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0},
+			{"replacement":"Induction, 120% Usage", "Gas, 80% Usage":0, "Gas, 100% Usage":0, "Gas, 120% Usage":0.1, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0},
+			{"replacement":"None", "Gas, 80% Usage":0, "Gas, 100% Usage":0, "Gas, 120% Usage":0, "Propane, 80% Usage":0, "Propane, 100% Usage":0, "Propane, 120% Usage":0, "Electric, 80% Usage":0, "Electric, 100% Usage":0, "Electric, 120% Usage":0, "Induction, 80% Usage":0, "Induction, 100% Usage":0, "Induction, 120% Usage":0, "None":0}
+		], 
+	"assumptions":
+		{
+			"Assumption_1": "On the replacements tab, the assumption for all gas and propane fuel switching is 90% to electric and 10% to induction", 
+			"Assumption_2": "On the replacements tab, the assumption for none fuel switching is 90% to 80% Electric Usage and 10% to 80% induction usage",
+			"Assumption_3": "Currently, no electric usage switches to induction. I assume that we will change this, but unsure about the amount of the induction units"
+		}
+}
