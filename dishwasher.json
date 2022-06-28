@@ -1,0 +1,49 @@
+{
+	"tsv": 
+		[
+			{"technology":"Dishwasher"}
+		],
+	"option": 
+		[
+			{"option":"318 Rated kWh, 80% Usage", "goal percent":0.014},
+			{"option":"318 Rated kWh, 100% Usage", "goal percent":0.029}, 
+			{"option":"318 Rated kWh, 120% Usage", "goal percent":0.014},
+			{"option":"290 Rated kWh, 80% Usage", "goal percent":0.026},
+			{"option":"290 Rated kWh, 100% Usage", "goal percent":0.051},
+			{"option":"290 Rated kWh, 120% Usage", "goal percent":0.026},
+			{"option":"270 Rated kWh, 80% Usage", "goal percent":0.0},
+			{"option":"270 Rated kWh, 100% Usage", "goal percent":0.0},
+			{"option":"270 Rated kWh, 120% Usage", "goal percent":0.0},
+			{"option":"255 Rated kWh, 80% Usage", "goal percent":0.005},
+			{"option":"255 Rated kWh, 100% Usage", "goal percent":0.01},
+			{"option":"255 Rated kWh, 120% Usage", "goal percent":0.005},
+			{"option":"199 Rated kWh, 80% Usage", "goal percent":0.098},
+			{"option":"199 Rated kWh, 100% Usage", "goal percent":0.195},
+			{"option":"199 Rated kWh, 120% Usage", "goal percent":0.098},
+			{"option":"None", "goal percent":0.429}
+		], 
+	"replacement":
+		[
+			{"replacement":"318 Rated kWh, 80% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0}, 
+			{"replacement":"318 Rated kWh, 100% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0},
+			{"replacement":"318 Rated kWh, 120% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0},
+			{"replacement":"290 Rated kWh, 80% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0}, 
+			{"replacement":"290 Rated kWh, 100% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0},
+			{"replacement":"290 Rated kWh, 120% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0},
+			{"replacement":"270 Rated kWh, 80% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0}, 
+			{"replacement":"270 Rated kWh, 100% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0},
+			{"replacement":"270 Rated kWh, 120% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0},
+			{"replacement":"255 Rated kWh, 80% Usage", "318 Rated kWh, 80% Usage":0.05, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0.05, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0.0125}, 
+			{"replacement":"255 Rated kWh, 100% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0.05, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0.05, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0.025},
+			{"replacement":"255 Rated kWh, 120% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0.05, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0.05, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0.0125},
+			{"replacement":"199 Rated kWh, 80% Usage", "318 Rated kWh, 80% Usage":0.95, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0.95, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0.2375}, 
+			{"replacement":"199 Rated kWh, 100% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0.95, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0.95, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0.475},
+			{"replacement":"199 Rated kWh, 120% Usage", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0.95, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0.95, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0.2375},
+			{"replacement":"None", "318 Rated kWh, 80% Usage":0, "318 Rated kWh, 100% Usage":0, "318 Rated kWh, 120% Usage":0, "290 Rated kWh, 80% Usage":0, "290 Rated kWh, 100% Usage":0, "290 Rated kWh, 120% Usage":0, "270 Rated kWh, 80% Usage":0, "270 Rated kWh, 100% Usage":0, "270 Rated kWh, 120% Usage":0, "255 Rated kWh, 80% Usage":0, "255 Rated kWh, 100% Usage":0, "255 Rated kWh, 120% Usage":0, "199 Rated kWh, 80% Usage":0, "199 Rated kWh, 100% Usage":0, "199 Rated kWh, 120% Usage":0, "None":0}
+		], 
+	"assumptions":
+		{
+			"Assumption_1": "On the replacements tab, the assumption for all 318 and 290 kWh Rated and None switch at a rate of 95% to 199 kWh Rated and switch at a rate of 5% to 255 kWh Rated", 
+			"Issue": "No 270, 255, or 199 kWh Rated in current options_lookup"
+		}
+}

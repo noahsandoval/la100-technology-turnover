@@ -1,0 +1,48 @@
+{
+	"tsv": 
+		[
+			{"technology":"Water Heater Efficiency"}
+		],
+	"option": 
+		[
+			{"option":"Electric Heat Pump, 80 gal", "goal percent":0.3150, "Water Heater Fuel":"Electricity"}, 
+			{"option":"Electric Premium", "goal percent":0.0, "Water Heater Fuel":"Electricity"}, 
+			{"option":"Electric Standard", "goal percent":0.0, "Water Heater Fuel":"Electricity"},
+			{"option":"Electric Tankless", "goal percent":0.0, "Water Heater Fuel":"Electricity"},
+			{"option":"FIXME Fuel Oil Indirect", "goal percent":0.0009, "Water Heater Fuel":"Fuel Oil"},
+			{"option":"Fuel Oil Premium", "goal percent":0.0, "Water Heater Fuel":"Fuel Oil"},
+			{"option":"Fuel Oil Standard", "goal percent":0.0, "Water Heater Fuel":"Fuel Oil"},
+			{"option":"Natural Gas Premium", "goal percent":0.0011, "Water Heater Fuel":"Natural Gas"},
+			{"option":"Natural Gas Premium, Condensing", "goal percent":0.3203, "Water Heater Fuel":"Natural Gas"},
+			{"option":"Natural Gas Standard", "goal percent":0.15, "Water Heater Fuel":"Natural Gas"},
+			{"option":"Natural Gas Tankless", "goal percent":0.2118, "Water Heater Fuel":"Natural Gas"},
+			{"option":"Other Fuel", "goal percent":0.0, "Water Heater Fuel":"Other Fuel"},
+			{"option":"Propane Premium", "goal percent":0.0, "Water Heater Fuel":"Propane"},
+			{"option":"Propane Standard", "goal percent":0.0003, "Water Heater Fuel":"Propane"},
+			{"option":"Propane Tankless", "goal percent":0.0006, "Water Heater Fuel":"Propane"}
+		], 
+	"replacement":
+		[
+			{"replacement":"Electric Heat Pump, 80 gal", "Electric Heat Pump, 80 gal":0, "Electric Premium":0.4, "Electric Standard":0.4, "Electric Tankless":0.4, "FIXME Fuel Oil Indirect":0.4, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0.4, "Natural Gas Premium, Condensing":0, "Natural Gas Standard":0.4, "Natural Gas Tankless":0, "Other Fuel":0.4, "Propane Premium":0.4, "Propane Standard":0.256, "Propane Tankless":0}, 
+			{"replacement":"Electric Premium", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0, "Propane Tankless":0}, 
+			{"replacement":"Electric Standard", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0, "Propane Tankless":0}, 
+			{"replacement":"Electric Tankless", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0, "Propane Tankless":0}, 
+			{"replacement":"FIXME Fuel Oil Indirect", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0, "Propane Tankless":0}, 
+			{"replacement":"Fuel Oil Premium", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0, "Propane Tankless":0}, 
+			{"replacement":"Fuel Oil Standard", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0, "Propane Tankless":0}, 
+			{"replacement":"Natural Gas Premium", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0, "Propane Tankless":0},
+			{"replacement":"Natural Gas Premium, Condensing", "Electric Heat Pump, 80 gal":0, "Electric Premium":0.4, "Electric Standard":0.4, "Electric Tankless":0.4, "FIXME Fuel Oil Indirect":0.4, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0.4,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0.4, "Natural Gas Tankless":0, "Other Fuel":0.4, "Propane Premium":0.4, "Propane Standard":0.256, "Propane Tankless":0}, 
+			{"replacement":"Natural Gas Standard", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0, "Propane Tankless":0}, 
+			{"replacement":"Natural Gas Tankless", "Electric Heat Pump, 80 gal":0, "Electric Premium":0.2, "Electric Standard":0.2, "Electric Tankless":0.2, "FIXME Fuel Oil Indirect":0.2, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0.2,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0.2, "Natural Gas Tankless":0, "Other Fuel":0.2, "Propane Premium":0.2, "Propane Standard":0.128, "Propane Tankless":0}, 
+			{"replacement":"Other Fuel", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0, "Propane Tankless":0}, 
+			{"replacement":"Propane Premium", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0, "Propane Tankless":0}, 
+			{"replacement":"Propane Standard", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0, "Propane Tankless":0},
+			{"replacement":"Propane Tankless", "Electric Heat Pump, 80 gal":0, "Electric Premium":0, "Electric Standard":0, "Electric Tankless":0, "FIXME Fuel Oil Indirect":0, "Fuel Oil Premium":0, "Fuel Oil Standard":0, "Natural Gas Premium":0,"Natural Gas Premium, Condensing":0, "Natural Gas Standard":0, "Natural Gas Tankless":0, "Other Fuel":0, "Propane Premium":0, "Propane Standard":0.36, "Propane Tankless":0}
+		], 
+	"assumptions":
+		{
+			"Assumption_1": "On the replacements tab, the assumption for all gas and propane fuel switching is 90% to electric and 10% to induction", 
+			"Assumption_2": "On the replacements tab, the assumption for none fuel switching is 90% to 80% Electric Usage and 10% to 80% induction usage",
+			"Assumption_3": "Currently, no electric usage switches to induction. I assume that we will change this, but unsure about the amount of the induction units"
+		}
+}
